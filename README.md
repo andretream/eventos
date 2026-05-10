@@ -39,6 +39,8 @@ npm install
 npm install --workspace @eventos/api
 npm install --workspace @eventos/web
 ```
+> [!WARNING]
+> **Atenção:** caso `npm` não funcione no PowerShell, use `npm.cmd`.
 
 ### 3. Suba o banco
 
